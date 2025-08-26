@@ -1,1 +1,1 @@
-# Classification_of_US_States_using_K-means_Clustering
+Project Description: This project aims to classify US States using K-means clustering.
